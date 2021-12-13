@@ -6,7 +6,7 @@
 }
 
 .parallaxmine {
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/varun2.ARW");
   height: 100%;
   width: 100%;
   align-self: center;
@@ -18,7 +18,7 @@
 
 @media (min-width: 800px) {
   .titletext::before {
-    content: "@editoreal";
+    content: "Hello.";
   }
 }
 @media (max-width: 799px) {

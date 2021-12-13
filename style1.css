@@ -1,5 +1,5 @@
 .parallaxmine{
-    background-image:url("../images/background.jpg");
+    background-image:url("../images/varun2.ARW");
     height:100%;
     width:100%;
     align-self: center;
@@ -75,6 +75,6 @@ html{
 	font-size:18px;
 }
 .makeitpretty{
-	background-color: red
+	background-color: red;
 	border-radius: 10%;
 }

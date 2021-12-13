@@ -16,7 +16,7 @@
 }
 
 .parallaxmine {
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/varun2.png");
   height: 100%;
   width: 100%;
   align-self: center;
@@ -28,7 +28,8 @@
 
 @media (min-width: 800px) {
   .titletext::before {
-    content: "@editoreal";
+    content: "Hello.";
+    background-color: #000000;
   }
 }
 @media (max-width: 799px) {
@@ -101,4 +102,9 @@ a p {
   font-size: 18px;
 }
 
+.comic{
+  margin: 20px;
+  width: 100%;
+  height: 100%;
+}
 /*# sourceMappingURL=style1.css.map */
