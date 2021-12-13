@@ -6,7 +6,7 @@ $bg_color: #d6f8ff;
 	margin-left: 30%;
 }
 .parallaxmine{
-    background-image:url("../images/background.jpg");
+    background-image:url("../images/varun2.png");
     height:100%;
     width:100%;
     align-self: center;
@@ -18,7 +18,7 @@ $bg_color: #d6f8ff;
 
 @media(min-width: 800px){
 	.titletext::before{
-		content: "@editoreal";
+		content: "Hello";
 	}
 }
 @media(max-width: 799px){
@@ -83,4 +83,8 @@ a{
 	p{
 	font-size:18px;
 	}
+}
+
+.comic{
+	margin:20px;
 }
